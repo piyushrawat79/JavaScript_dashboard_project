@@ -1,3 +1,3 @@
-# JavaScript_dashboard_project
-This is frontend spotify project
+# Netflix_dashboard_project
+This is frontend Netflix Project
 Like this video!;
